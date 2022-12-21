@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in [DANTE/OCKHAM team](https://team.inria.fr/dante/fr/), ENS Lyon, France. I am under the supervision of [Elisa Riccietti](http://perso.ens-lyon.fr/elisa.riccietti/) and [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/).
+I am a third-year PhD student at [Laboratoire d'Informatique de Modélisation et d'Optimisation des Systèmes](https://limos.fr/), Université Clermont Auvergne, Clémont Ferrand, France. I am under the supervision of [Prof. Viet Hung Nguyen](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P163).
 {: .text-justify}
 
-My PhD project is about Sparse Matrix Factorization - a problem which ask to approximate a dense matrix by product of multiple sparse factors. The problem finds itself between the intersection of many research domains: linear algebra, (polynomial) optimization and combinatorics. I am also interested in theory of Neural Networks, non-convex optimization and other subjects in Theoretical Computer Science.
+My PhD project is about the application of Machine Learning to Combinatorial Optimisation. In a nutshell, many combinatorial problems can be modelised as Integer Linear Programming (ILP) and solved by Branch-and-Bound or Branch-and-Cut methods. At each node of the decision tree of these methods, one needs to make many decisions: which variables to branch? which cut to apply? Our idea is to use Machine Learning to learn the optimal strategy for these decisions to get accelerate the solvers
 {: .text-justify}
 
-<figure>
+<!-- <figure>
   <img
     src="/images/hadamard.png"
      alt="An example of sparse matrix factorization"
@@ -23,5 +23,5 @@ My PhD project is about Sparse Matrix Factorization - a problem which ask to app
       margin-top: 1em;"
     >
     <figcaption>An example of sparse matrix factorization</figcaption>
-</figure>
+</figure> -->
 

@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Quoc Tung"
+title                    : "Vo Thi Quynh Trang"
 title_separator          : "-"
-name                     : &name "Le Quoc Tung"
+name                     : &name "Vo Thi Quynh Trang"
 description              : &description "Computer Science PhD Student"
-url                      : https://tung-qle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://trang-vo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Le Quoc Tung"
+  name             : "Vo Thi Quynh Trang"
   avatar           : "profile.jpg"
-  bio              : "PhD student at ENS de Lyon"
-  location         : "Lyon, France"
+  bio              : "PhD student at Université Clermont Auvergne"
+  location         : "Clément Ferrand, France"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=odYBqHgAAAAJ&hl=fr"
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tung-qle"
+  github           : "trang-vo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "quoc-tung-le-249b95232"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
